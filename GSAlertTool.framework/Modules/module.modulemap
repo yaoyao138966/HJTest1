@@ -1,0 +1,6 @@
+framework module GSAlertTool {
+  umbrella header "GSAlertTool.h"
+
+  export *
+  module * { export * }
+}
